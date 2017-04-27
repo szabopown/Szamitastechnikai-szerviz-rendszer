@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+EXPRESS_hibajegyek		NFI		new file
+Connection to 'C:\Users\macsodev\Documents\Szamitastechnikai-szerviz-rendszer\szervizjegyek_attekintese.xlsx'		CNX+		
